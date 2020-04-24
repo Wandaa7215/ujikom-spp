@@ -1,0 +1,11 @@
+Nama	 	: Wanda Selamet Merdeka Putri
+Kelas 		: XII Rekayasa Perangkat Lunak 2
+Ujikom SPP
+SMKN 2 SUKABUMI
+
+Admin   -> Username (admin)
+        -> Password (admin)
+Petugas	-> Username (petugas)
+	-> Password (petugas)
+Siswa 	-> NIS 		(11707140)
+     	-> Password 	(wey)
